@@ -23,3 +23,12 @@ However, the in-depth analysis using supervised and unsupervised machine learnin
 First, because of the limited scope of the county health data, I was unable to use the complete Washington Post dataset, substantially limiting the size of my sample.  In future studies, I would search for health data that goes further back to include more of the school violence data points.
 
 Secondly, I would like to investigate other model's abilities to predict the severity of an event (via the casualty rate), such as random forests.  Perhaps these could provide a more accurate/reliable prediction than the Ridge linear regression was able to do.
+
+## Important Files
+* src folder
+  * Contains .py scripts to read data, clean data, and create features
+* reports/School Violence Investigation Report.pdf
+  * This file contains the final written report detailing the analysis from gathering data to training models
+* notebooks
+  * Contains notebooks related to exploratory data analysis and data visualization (1.0 and 1.1)
+  * Contains notebook 2.0 Model_Investigation
